@@ -2,7 +2,6 @@
 ![AI_ML.png](images/AI_ML.png)
 
 
-
 ### Difference between Traditional Programming and Machine Learning?
 ![difference.png](images/difference.png)
 
@@ -71,3 +70,8 @@ Trained through trial and error to make decisions (e.g., game playing, robotics)
     5. Neural Networks: Inspired by human brain structure, used for deep learning
     6. K-Means Clustering: Groups similar data points into clusters
     7. Gradient Boosting: Ensemble learning using multiple weak models
+
+#### use cases
+![googledc.png](images/googledc.png)
+
+https://deepmind.google/discover/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-by-40/
